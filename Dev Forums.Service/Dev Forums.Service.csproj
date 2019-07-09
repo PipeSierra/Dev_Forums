@@ -5,4 +5,8 @@
     <RootNamespace>Dev_Forums.Service</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Dev Forums.Data\Dev Forums.Data.csproj" />
+  </ItemGroup>
+
 </Project>
